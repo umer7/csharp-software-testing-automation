@@ -1,0 +1,11 @@
+C:\Users\sohaimuh\Desktop\Logoff\ProjectLibraryHome\ProjectLibraryHome\bin\Debug\ProjectLibraryHome.dll
+C:\Users\sohaimuh\Desktop\Logoff\ProjectLibraryHome\ProjectLibraryHome\bin\Debug\ProjectLibraryHome.pdb
+C:\Users\sohaimuh\Desktop\Logoff\ProjectLibraryHome\ProjectLibraryHome\obj\Debug\ProjectLibraryHome.dll
+C:\Users\sohaimuh\Desktop\Logoff\ProjectLibraryHome\ProjectLibraryHome\obj\Debug\ProjectLibraryHome.pdb
+C:\bin\Debug\ProjectLibraryHome.dll
+C:\bin\Debug\ProjectLibraryHome.pdb
+C:\POMSNetAutomationDLL\ProjectLibraryHome.dll
+C:\POMSNetAutomationDLL\ProjectLibraryHome.pdb
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibraryHome\ProjectLibraryHome\obj\Debug\ProjectLibraryHome.dll
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibraryHome\ProjectLibraryHome\obj\Debug\ProjectLibraryHome.pdb
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibraryHome\ProjectLibraryHome\obj\Debug\ProjectLibraryHome.csprojResolveAssemblyReference.cache

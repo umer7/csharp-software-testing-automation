@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectLibraryHome", "ProjectLibraryHome\ProjectLibraryHome.csproj", "{DFB3B3DC-A624-4861-B5B4-9CF21D6B6F74}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://pmhns-pscm01:8080/tfs/sandbox
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ProjectLibraryHome\\ProjectLibraryHome.csproj
+		SccProjectName1 = ProjectLibraryHome
+		SccLocalPath1 = ProjectLibraryHome
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB3B3DC-A624-4861-B5B4-9CF21D6B6F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB3B3DC-A624-4861-B5B4-9CF21D6B6F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB3B3DC-A624-4861-B5B4-9CF21D6B6F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB3B3DC-A624-4861-B5B4-9CF21D6B6F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
