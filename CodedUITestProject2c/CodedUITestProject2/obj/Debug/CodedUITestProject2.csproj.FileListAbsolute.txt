@@ -1,0 +1,5 @@
+c:\users\umer\documents\visual studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csprojResolveAssemblyReference.cache
+c:\users\umer\documents\visual studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.dll
+c:\users\umer\documents\visual studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.pdb
+c:\users\umer\documents\visual studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
+c:\users\umer\documents\visual studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb
