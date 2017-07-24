@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UITestXPathUtility</name>
+    </assembly>
+    <members>
+        <member name="M:Microsoft.VisualStudio.TestTools.UITesting.UITestControlExtensions.FindFirstByXPath(Microsoft.VisualStudio.TestTools.UITesting.UITestControl,System.String)">
+            <summary>
+            Finds the first UITestControl matching the search criteria specified by the XPath query.
+            </summary>
+            <param name="controlToSearchUnder">The control under which to search.</param>
+            <param name="xPathQuery">The XPath query to search.</param>
+            <returns>The first UITestControl matching the query OR null if no match.</returns>
+        </member>
+        <member name="M:Microsoft.VisualStudio.TestTools.UITesting.UITestControlExtensions.FindAllByXPath(Microsoft.VisualStudio.TestTools.UITesting.UITestControl,System.String)">
+            <summary>
+            Finds all the UITestControls matching the search criteria specified by the XPath query.
+            </summary>
+            <param name="controlToSearchUnder">The control under which to search.</param>
+            <param name="xPathQuery">The XPath query to search.</param>
+            <returns>An enumeration of all UITestControl matching the query. If there is no match, the enumeration is empty.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,11 @@
+c:\users\imammami\documents\visual studio 2012\Projects\ProjectLibrarySignoff\ProjectLibrarySignoff\bin\Debug\ProjectLibrarySignoff.dll
+c:\users\imammami\documents\visual studio 2012\Projects\ProjectLibrarySignoff\ProjectLibrarySignoff\bin\Debug\ProjectLibrarySignoff.pdb
+c:\users\imammami\documents\visual studio 2012\Projects\ProjectLibrarySignoff\ProjectLibrarySignoff\obj\Debug\ProjectLibrarySignoff.dll
+c:\users\imammami\documents\visual studio 2012\Projects\ProjectLibrarySignoff\ProjectLibrarySignoff\obj\Debug\ProjectLibrarySignoff.pdb
+C:\Users\imammami\Documents\Visual Studio 2012\Projects\ProjectLibrarySignoff\ProjectLibrarySignoff\obj\Debug\ProjectLibrarySignoff.csprojResolveAssemblyReference.cache
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibrarySignoff\ProjectLibrarySignoff\bin\Debug\ProjectLibrarySignoff.dll
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibrarySignoff\ProjectLibrarySignoff\bin\Debug\ProjectLibrarySignoff.pdb
+C:\POMSNetAutomationDLL\ProjectLibrarySignoff.dll
+C:\POMSNetAutomationDLL\ProjectLibrarySignoff.pdb
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibrarySignoff\ProjectLibrarySignoff\obj\Debug\ProjectLibrarySignoff.dll
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibrarySignoff\ProjectLibrarySignoff\obj\Debug\ProjectLibrarySignoff.pdb
