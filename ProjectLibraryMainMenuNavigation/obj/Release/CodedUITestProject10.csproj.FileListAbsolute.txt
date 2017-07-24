@@ -1,0 +1,4 @@
+C:\CQ_Migration_Test2\CodedUI Scripts\CodedUITestProject10\CodedUITestProject10\bin\Release\CodedUITestProject10.dll
+C:\CQ_Migration_Test2\CodedUI Scripts\CodedUITestProject10\CodedUITestProject10\bin\Release\CodedUITestProject10.pdb
+C:\CQ_Migration_Test2\CodedUI Scripts\CodedUITestProject10\CodedUITestProject10\obj\Release\CodedUITestProject10.dll
+C:\CQ_Migration_Test2\CodedUI Scripts\CodedUITestProject10\CodedUITestProject10\obj\Release\CodedUITestProject10.pdb

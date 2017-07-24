@@ -1,0 +1,4 @@
+C:\POMSNetAutomationDLL\ProjectLibraryNavigation.dll
+C:\POMSNetAutomationDLL\ProjectLibraryNavigation.pdb
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibraryMainMenuNavigation\ProjectLibraryMainMenuNavigation\obj\Debug\ProjectLibraryNavigation.dll
+C:\CQ_Migration_Test2\POMSnetAutomationTestFramework\ProjectLibraryMainMenuNavigation\ProjectLibraryMainMenuNavigation\obj\Debug\ProjectLibraryNavigation.pdb
