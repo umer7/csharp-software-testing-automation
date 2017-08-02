@@ -1,0 +1,12 @@
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\CodedUITestProject2.dll.config
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\CodedUITestProject2.dll
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\CodedUITestProject2.pdb
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\Selenium.WebDriverBackedSelenium.dll
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\WebDriver.dll
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\WebDriver.Support.dll
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\Selenium.WebDriverBackedSelenium.xml
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\WebDriver.xml
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\WebDriver.Support.xml
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\obj\Release\CodedUITestProject2.dll
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\obj\Release\CodedUITestProject2.pdb
+D:\Fall 2k16\SoftwareTesting(CS-497)AmirImam\Selenium\selinum code1\CodedUITestProject2\bin\Release\CodedUITestProject2.exe.config
